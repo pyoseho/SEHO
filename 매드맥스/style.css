@@ -1,0 +1,19 @@
+
+body { font-size: 92px;
+    font-family: "Sofia";
+    color: #03c75a;
+    text-align: center; 
+}
+#personal-info {font-size 20px;
+text-align : right;}
+p1 {color : red}
+p2 {color : orange}
+p3 {color : yellow}
+p4 {color : lightgreen}
+p5 {color : green}
+p6 {color : blue}
+p7 {color : purple}
+
+#gsearch {width : 500px;
+          height : 30px;       
+}
